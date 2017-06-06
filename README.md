@@ -16,7 +16,9 @@ if(better){
 **/
 if(icanfly){
   i will fly to taishan.hahahahhahah.
+  And kiss my baby everyone minute.
 }else{
   i just go to work.
+  And miss my baby ereryone muinte.
   And cry all day.
 }
