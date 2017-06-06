@@ -5,3 +5,12 @@ just exercise
 Just do IT!
 
 readme-edits:   test branch commit
+
+/**
+*2017/06/06 wangyuanjun test branch
+**/
+if(icanfly){
+  i will fly to taishan.
+}else{
+  i just go to work.
+}
